@@ -10,8 +10,9 @@
   <img align="center" alt="miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="miguel-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
-  <img align="center" alt="miguel-grafana" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fzabbixmonitoring%2F&psig=AOvVaw3pivt3PH1ba5OxyPHMpyYj&ust=1681307815794000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj945j-of4CFQAAAAAdAAAAABAD" />       
-      </div>
+  <img align="center" alt="miguel-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+               
+  </div>
   
   ##
  
