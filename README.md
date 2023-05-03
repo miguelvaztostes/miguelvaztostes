@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Vaz;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f6f6f6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Vaz;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🖥️  Hoje trabalho como DevOps
 - 📒  Estudando Front-End
 - 🤓  Ciência da Computação
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelvaztostes&bg_color=0d1117&color=800080&line=C0C0C0&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelvaztostes&bg_color=0d1117&color=f6f6f6&line=C0C0C0&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
