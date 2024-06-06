@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f6f6f6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Vaz;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🖥️  Hoje trabalho como Desenvolvedor FullStack
+- 🖥️  Hoje trabalho como DevOps
 - 📒  Estudando Cloud
 - 🤓  Ciência da Computação
 
